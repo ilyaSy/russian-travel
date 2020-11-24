@@ -1,0 +1,6 @@
+@import url('../vendor/normalize.css');
+@import url('../blocks/page/page.css');
+/*section: header*/
+@import url('../blocks/header/header.css');
+/*section: footer*/
+@import url('../blocks/footer/footer.css');
