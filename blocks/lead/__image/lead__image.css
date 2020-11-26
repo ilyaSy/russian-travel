@@ -1,27 +1,25 @@
 .lead__image {
-  position: relative;
   margin: 64px auto 0 auto;
-  padding: 0 148px;
-  width: calc(100% - 2*148px);
+  display: block;
+  width: 984px;
 }
 
 @media screen and (max-width:1024px) {
   .lead__image {
     margin: 56px auto 0 auto;
-    padding: 0 48px;
-    width: calc(100% - 2*48px);
+    width: 928px;
   }
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width:936px) {
   .lead__image {
-    padding: 0;
+    margin: 56px 0 0 0;
     width: 100%;
   }
 }
 
 @media screen and (max-width:320px) {
   .lead__image {
-    margin: 40px auto 0 auto;
+    margin: 40px 0 0 0;
   }
 }

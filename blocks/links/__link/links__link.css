@@ -5,6 +5,7 @@
   color: #fff;
   margin: 0;
   padding: 0 18px 0 0;
+  width: min-content;
   transition: opacity .3s ease-out;
 }
 
