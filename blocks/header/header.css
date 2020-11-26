@@ -1,14 +1,26 @@
 .header {
-  height: 100vh;
-  min-height: 600px;
-  max-height: 756px;
-  /* выше установили ограничения для секции */
-
-  margin: 0;
   position: relative;
-  display: flex;
-  align-items: center;
-  padding-left: 64px;
-  background-color: #f2f2f2;
-  overflow: hidden;
+  margin: 0 48px;
+  padding: 28px 0 0 0;
+  height: 52px;
+  display: grid;
+  grid-template-columns: 28px 28px;
+  justify-content: end;
+  align-content: start;
+  gap: 18px;
+}
+
+@media screen and (max-width:768px) {
+  .header {
+    margin: 0 24px;
+  }
+}
+
+@media screen and (max-width:320px) {
+  .header {
+    padding: 16px 0 0 0;
+    margin: 0 16px;
+    height: 42px;
+    grid-template-columns: 22px 22px;
+  }
 }
