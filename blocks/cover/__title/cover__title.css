@@ -11,7 +11,6 @@
   line-height: 76px;
   z-index: 100;
   font-weight: 900;
-  color: #fff;
 }
 
 @media screen and (max-width: 1024px) {
@@ -25,7 +24,6 @@
     top: 104px;
   }
 }
-  
 
 @media screen and (max-width: 570px) {
   .cover__title {
