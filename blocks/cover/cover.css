@@ -1,0 +1,24 @@
+.cover {
+  position: relative;
+  margin: 92px 48px 0 48px;
+  padding: 0;
+  display: block;
+  color: #fff;
+}
+
+@media screen and (max-width: 1279px) {
+  .cover {
+    margin: 92px 0 0 0;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover {
+    margin: 66px 0 0 0;
+  }
+}
