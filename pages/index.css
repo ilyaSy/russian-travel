@@ -18,5 +18,11 @@
 /*section: photo-grid*/
 @import url('../blocks/photo-grid/photo-grid.css');
 @import url('../blocks/photo-grid/__item/photo-grid__item.css');
+/*section: places*/
+/*section: cover*/
+
 /*section: footer*/
 @import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/__copyright/footer__copyright.css');
+@import url('../blocks/links/links.css');
+@import url('../blocks/links/__link/links__link.css');
