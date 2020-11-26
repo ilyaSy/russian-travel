@@ -6,16 +6,17 @@
 @media screen and (max-width: 1100px) {
   .place__image {
     width: 440px;
+    /* width: 42.37% */
   }
 }
 
-@media screen and (max-width: 920px) {
+@media screen and (max-width: 993px) {
   .place__image {
-    width: 340px;
+    width: 44.27vw;
   }
 }
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 550px) {
   .place__image {
     width: 100%;
   }

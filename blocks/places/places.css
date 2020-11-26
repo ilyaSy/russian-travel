@@ -11,18 +11,17 @@
     width: 928px;
   }
 }
-  
 
-@media screen and (max-width: 920px) {
+@media screen and (max-width: 989px) {
   .places {
-    width: 720px;
+    width: 93.75%;
     gap: 73px;
   }
 }
 
 @media screen and (max-width: 520px) {
   .places {
-    width: 320px;
+    width: 100%;
     gap: 50px;
   }
 }
