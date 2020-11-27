@@ -1,6 +1,6 @@
 .places {
   width: 984px;
-  margin: 92px auto 0 auto; 
+  margin: 92px auto 0 auto;
   display: grid;
   grid-template-rows: repeat(5, min-content);
   gap: 80px;
