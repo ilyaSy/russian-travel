@@ -4,16 +4,21 @@
   width: 984px;
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width:1085px) {
   .lead__image {
     margin: 56px auto 0 auto;
-    width: 928px;
+    width: 90.625%;
   }
 }
 
-@media screen and (max-width:936px) {
+@media screen and (max-width:928px) {
   .lead__image {
-    margin: 56px 0 0 0;
+    width: 841px;
+  }
+}
+
+@media screen and (max-width:841px) {
+  .lead__image {
     width: 100%;
   }
 }

@@ -1,5 +1,6 @@
 .lead__caption {
   margin: 8px auto 0 auto;
+  padding: 0;
   display: block;
   width: 984px;
   text-align: left;
@@ -7,22 +8,21 @@
   line-height: 1.4;
 }
   
-@media screen and (max-width:1024px) {
+@media screen and (max-width:1085px) {
   .lead__caption {
-    padding: 0;
-    margin: 0 0 0 48px;
+    margin: 8px 0 0 48px;
     width: max-content;
   }
 }
   
 @media screen and (max-width:768px) {
   .lead__caption {
-    margin: 0 0 0 24px;
+    margin: 8px 0 0 24px;
   }
 }
   
 @media screen and (max-width:420px) {
   .lead__caption {
-    margin: 40px 0 0 16px;
+    margin: 8px 0 0 16px;
   }
 }

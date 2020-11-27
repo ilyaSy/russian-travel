@@ -18,9 +18,9 @@
 } 
 
 .page {
-  /* min-width: 290px;
+  min-width: 310px;
   max-width: 1600px;
-  margin: 0 auto; */
+  margin: 0 auto;
 
   font-family: 'Inter', Arial, sans-serif;
 
