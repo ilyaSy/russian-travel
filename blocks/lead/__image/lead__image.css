@@ -2,6 +2,7 @@
   margin: 64px auto 0 auto;
   display: block;
   width: 984px;
+  max-width: 100%;
 }
 
 @media screen and (max-width:1085px) {
