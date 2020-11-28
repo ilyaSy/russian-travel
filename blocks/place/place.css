@@ -1,6 +1,6 @@
 .place {
   display: grid;
-  grid-template-columns: min-content minmax(250px, 1fr);
+  grid-template-columns: min-content minmax(200px, 1fr);
   grid-template-areas: 
   "title website"
   "photo paragraph";

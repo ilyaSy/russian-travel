@@ -7,7 +7,7 @@
   line-height: 22px;
 }
   
-@media screen and (max-width: 570px) {
+@media screen and (max-width: 600px) {
   .cover__subtitle {
     padding-top: 16px;
     width: 288px;
