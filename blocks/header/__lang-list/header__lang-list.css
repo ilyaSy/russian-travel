@@ -1,0 +1,17 @@
+.header__lang-list {
+  list-style: none;
+  margin: 0;
+  padding: 18px 0 0 0;
+  font-size: 0;
+}
+
+.header__lang-list > * {
+  display: inline-block;
+  padding: 0 0 0 18px;
+}
+
+@media screen and (max-width:320px) {
+  .header__lang-list {
+    padding-top: 14px;
+  }
+}
