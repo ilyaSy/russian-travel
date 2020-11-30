@@ -2,10 +2,8 @@
   margin: 92px auto 0 auto;
   padding: 0;
   
-  width: 100%;
+  /* width: 100%; */
   max-width: 1184px;
-  max-height: 740px;
-  height: 62.5vw;
 }
 
 @media screen and (max-width: 320px) {
